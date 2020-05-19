@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"perfume.categories"}],"uuid":"cb61258251f54827b3bb40b0d46bdea0"}
